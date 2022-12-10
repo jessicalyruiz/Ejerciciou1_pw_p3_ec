@@ -33,10 +33,13 @@ body{
   }
   .botonesO{
     width: 250px;
-    display: block;
+    
     text-align: center;
     margin: 10px;
   }
   .jueg{
     background-color: deeppink;
+  }
+  .fila1{
+
   }
