@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+.mjslabel{
+    background-color: blue;
+    border: 8px solid ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.butreinic {
+    background-color: rgb(0, 0, 0); 
+    color: rgb(255, 255, 255); 
+    border: 2px solid #3f413f;
+    margin:  10px;
+  }
+  
+  .butreinic:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .botonesdiv{
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .textmal{
+    color: red;
+  }
+  .textok{
+    color: yellow;
+  }
+  .botonesO{
+    width: 250px;
+    display: block;
+    text-align: center;
+    margin: 10px;
+  }
+  .jueg{
+    background-color: deeppink;
+  }
